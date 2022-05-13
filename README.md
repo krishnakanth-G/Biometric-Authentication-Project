@@ -1,4 +1,4 @@
-# Biometric-Authentication-Project
+# Biometric Authentication Project
 
 prerequisite
 1) Arduino IDE
